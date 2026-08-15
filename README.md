@@ -6,10 +6,10 @@ Four privacy-first Python tools that demonstrate structured handovers, confident
 
 | # | Project | Practical outcome |
 |---|---|---|
-| 14 | [Shift Handover Builder](labs/shift-handover-builder/README.md) | Creates structured, identifier-only shift notes and follow-ups. |
-| 15 | [Incident Log Anonymizer](labs/incident-log-anonymizer/README.md) | Redacts common direct identifiers from incident narratives. |
-| 16 | [Medication Schedule Audit](labs/medication-schedule-audit/README.md) | Finds administrative completeness issues without assessing treatment. |
-| 17 | [Resident Activity Planner](labs/resident-activity-planner/README.md) | Matches stated interests and accessibility needs to supplied activities. |
+| 14 | **Shift Handover Builder** | Creates structured, identifier-only shift notes and follow-ups. |
+| 15 | **Incident Log Anonymizer** | Redacts common direct identifiers from incident narratives. |
+| 16 | **Medication Schedule Audit** | Finds administrative completeness issues without assessing treatment. |
+| 17 | **Resident Activity Planner** | Matches stated interests and accessibility needs to supplied activities. |
 
 ## Safety boundary
 
